@@ -1,7 +1,7 @@
 Table of Contents 
 1)	Text Mining & NLP
-  A)
-  B)
+  A) LAB NAME
+  B) HW NAME
 2)	K-means Clustering
   A)
 3)	Association Rules
