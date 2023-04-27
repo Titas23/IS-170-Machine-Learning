@@ -1,1 +1,9 @@
 Support Vector Machines
+
+
+Support vector machines (SVMs) are a machine learning algorithm used for both classification and regression tasks. SVMs work by finding the optimal hyperplane that separates the data into different classes or predicts the value of a continuous variable.
+The SVM algorithm works by first transforming the data into a higher-dimensional space using a kernel function, which maps the original input features to a new feature space. In this new space, the SVM algorithm searches for a hyperplane that maximizes the margin, which is the distance between the hyperplane and the closest examples from each class.
+The SVM algorithm seeks to find a hyperplane that not only separates the data, but also maximizes the margin, which can help improve the generalization performance of the model. The data points closest to the hyperplane, known as support vectors, play a crucial role in determining the hyperplane.
+SVMs are particularly useful when the data is not linearly separable, as they can use non-linear kernel functions to map the data to a higher-dimensional space where a linear hyperplane can be used to separate the classes.
+The SVM algorithm can also be extended to handle regression tasks by finding a hyperplane that minimizes the mean squared error between the predicted and actual values of the continuous variable.
+One of the key strengths of SVMs is their ability to handle high-dimensional data with relatively small sample sizes, making them useful for a wide range of applications. However, SVMs can be computationally expensive and may not scale well to very large datasets. Additionally, the choice of kernel function and hyperparameters can have a significant impact on the performance of the model, and selecting these parameters can require significant expertise and experimentation.
