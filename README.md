@@ -6,17 +6,17 @@ Table of Contents
                 
       B) HW NAME - 2_11_2023_Andres_Perez_HW3.ipynb
               
-2)	K-means Clustering
+2)	[K Means Clustering](https://github.com/Titas23/IS-170-Machine-Learning/tree/3.-K-Means-Clustering)
 
       A) HW NAME - HW4_Andres_Perez_K_means.ipynb
   
-3)	Association Rules
+3)	[Association Rules](https://github.com/Titas23/IS-170-Machine-Learning/tree/4.-Association-Rules)
 
       A) LAB NAME - Lab_5_Perez_Ng.ipynb
 
       B) HW NAME - Lab_5_Perez_Ng.ipynb
 
-4)	Principal Component Analysis
+4)	[Principal Component Analysis](https://github.com/Titas23/IS-170-Machine-Learning/tree/5.-Principal-Component-Analysis)
 
       A) LAB NAME - Principle_Components_Analysis_Breast_Cancer_Data_rev3.ipynb
 
