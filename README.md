@@ -1,1 +1,8 @@
-Naiive Bayes
+Naive Bayes
+
+
+The Naive Bayes algorithm is a probabilistic machine learning algorithm that is commonly used for classification tasks, such as email spam detection or sentiment analysis. The algorithm is based on Bayes' theorem, which states that the probability of a hypothesis (in this case, a classification label) given some observed evidence (in this case, a set of features or inputs) is proportional to the likelihood of the evidence given the hypothesis, multiplied by the prior probability of the hypothesis.
+The "Naive" in Naive Bayes refers to the assumption that the features are conditionally independent of each other given the classification label. This assumption simplifies the calculation of the likelihood probabilities, as we can calculate the probability of each feature given each class separately, without considering the interactions between the features.
+To train a Naive Bayes classifier, we calculate the prior probability of each class by counting the frequency of each class in the training data. Then, we calculate the likelihood probabilities of each feature given each class, either by counting the frequency of each feature within each class or by assuming a probability distribution for each feature within each class.
+To classify a new input, we calculate the posterior probability of each class given the input features using Bayes' theorem, and then select the class with the highest probability as the predicted classification label. The Naive Bayes algorithm is simple and computationally efficient, making it a popular choice for text classification tasks and other applications where the number of features can be very large.
+
