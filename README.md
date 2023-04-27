@@ -46,7 +46,7 @@ Table of Contents
 
       B) HW NAME - SVM_HW10.ipynb
 
- 10)  [Social Media Analysis]()
+ 10)  [Social Media Analysis](https://github.com/Titas23/IS-170-Machine-Learning/tree/11.-Social-Media-Analysis)
 
       A) LAB NAME - 
 
