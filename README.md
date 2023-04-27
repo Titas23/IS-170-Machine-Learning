@@ -1,6 +1,6 @@
 Table of Contents 
 
-1)   [Text Mining & NLP](https://github.com/Titas23/IS-170-Machine-Learning/tree/2.-Text-Mining-%26-NLP).
+1)   [Text Mining & NLP](https://github.com/Titas23/IS-170-Machine-Learning/tree/2.-Text-Mining-%26-NLP)
 
       A) LAB NAME - Perez_Gonzalez_Lab_Sentiment_Analysis.ipynb
                 
