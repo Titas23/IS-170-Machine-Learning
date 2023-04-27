@@ -38,7 +38,7 @@ Table of Contents
 
       A) LAB NAME - Lab_Decision_Tree.ipynb
 
-      B) HW NAME - 
+      B) HW NAME - HW_9_Decision_Tree.ipynb
       
  9)   [Support Vector Machines](https://github.com/Titas23/IS-170-Machine-Learning/tree/10.-Support-Vector-Machines)
 
