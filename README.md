@@ -22,21 +22,32 @@ Table of Contents
 
       B) HW NAME - PCA_HW6.ipynb
   
-5)	K-Nearest Neighbors
+5)	[K Nearest Neighbor](https://github.com/Titas23/IS-170-Machine-Learning/tree/6.-K-Nearest-Neighbors)
 
      A) HW NAME - HW7_Loan_Default.ipynb
   
-6) Naiive Bayes
+6)    [Naive Bayes](https://github.com/Titas23/IS-170-Machine-Learning/tree/7.-Naive-Bayes)
 
-     A) LAB NAME - NaiveBayes_Lab.ipynb
+       A) LAB NAME - NaiveBayes_Lab.ipynb
   
-7) Regression Models
+7)   [Regression Models](https://github.com/Titas23/IS-170-Machine-Learning/tree/8.-Regression-Models)
 
      A) HW NAME - HW_8_Regression.ipynb
   
-8) Decision Tree
+8)   [Decision Tree](https://github.com/Titas23/IS-170-Machine-Learning/tree/9.-Decision-Tree)
 
       A) LAB NAME - Lab_Decision_Tree.ipynb
 
       B) HW NAME - 
+      
+ 9)   [Support Vector Machines](https://github.com/Titas23/IS-170-Machine-Learning/tree/10.-Support-Vector-Machines)
 
+      A) LAB NAME - SVM_Lab.ipynb
+
+      B) HW NAME - SVM_HW10.ipynb
+
+ 10)  [Social Media Analysis]()
+
+      A) LAB NAME - 
+
+      B) HW NAME - 
