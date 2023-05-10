@@ -1,4 +1,4 @@
-Hello and welcome to my GitHub repository showing my coursework of the Spring semester for the IS 170 Machine Learning course. 
+Hello and welcome to my GitHub repository my name is Andres Perez and I will be showing my coursework of the Spring semester for the IS 170 Machine Learning course. 
 
 
 In this Machine Learning course, we were expected to learn about the fundamental concepts, algorithms, and applications of machine learning. This includes understanding the difference between supervised and unsupervised learning, data preprocessing, model selection, evaluation, and tuning. We learned about popular algorithms such as linear regression, decision trees, random forests, and natural language processing, and how to apply them to solve real-world problems. Overall, we were expected to gain a solid foundation in machine learning concepts and techniques and be able to apply them to solve practical problems.
